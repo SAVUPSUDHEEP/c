@@ -1,3 +1,4 @@
+//PROGRAM TO CHECK WHETHER A PROGRAM IS PALIN- ARRAY OR NOT 
 #include<stdio.h>
 
  int reverse(int a)
